@@ -1,4 +1,4 @@
-const dogs = [
+export const dogs = [
     {
         name: "Simba",
         avatar: "images/dog-simba.jpg",
@@ -31,5 +31,3 @@ const dogs = [
         hasBeenLiked: false
     }
 ]
-
-// Remember to export the data!

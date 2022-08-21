@@ -78,3 +78,9 @@ header > img {
 .footer .btn:last-child {
   background-color: rgb(225, 254, 244);
 }
+#nope {
+  display: none;
+}
+#like {
+  display: none;
+}
