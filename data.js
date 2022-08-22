@@ -14,11 +14,11 @@ export const dogs = [
         bio: "Art. Literature. Natural wine. Yoga.",
         hasBeenSwiped: false,
         hasBeenLiked: false
-    },{
-        name: "Bella",
-        avatar: "images/dog-bella.jpg",
-        age: 43,
-        bio: "Yup, that's my owner. U can meet him if you want",
+    }, {
+        name: "Aivar",
+        avatar: "images/dog-aivar.jpg",
+        age: 34,
+        bio: "Soy un perro Bosnio chungo...",
         hasBeenSwiped: false,
         hasBeenLiked: false
     },
